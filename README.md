@@ -72,3 +72,20 @@ Documentation reviewed on 17 October 2026.
 
 ## Project Maintenance
 - Documented the existing backend API structure and setup instructions.
+
+## API Modules
+
+| Module | Functionality |
+|---|---|
+| Authentication | User login |
+| Users | Employee and user management |
+| Projects | Project CRUD operations |
+| Tasks | Task CRUD operations |
+| Comments | Task-related comments |
+
+## API Testing
+
+The backend REST APIs can be tested using Postman.
+
+Base URL: http://localhost:8080
+
