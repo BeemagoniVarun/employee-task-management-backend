@@ -87,5 +87,5 @@ Documentation reviewed on 17 October 2026.
 
 The backend REST APIs can be tested using Postman.
 
-Base URL: http://localhost:8080
+Base URL: http://localhost:8081
 
